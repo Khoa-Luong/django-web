@@ -18,8 +18,6 @@ Djangoフレームワークを利用しているウェブサイト　ー　BookC
 
 内容：オンラインで本を予約します。
 
-担当：バックエンドです。
-
 プログラミング言語：HTML, CSS, Bootstrap, JavaScript, Django
 
 データベース：SQLite 
